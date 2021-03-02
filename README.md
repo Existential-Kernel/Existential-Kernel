@@ -10,7 +10,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" />
-<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/452/kali-linux.png" />
 <img align="left" alt="Heroku" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="AWS" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Faws-logo-logo-png-transparent.png&f=1&nofb=1" />
