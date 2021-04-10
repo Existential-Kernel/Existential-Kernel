@@ -9,6 +9,7 @@ https://media.discordapp.net/attachments/816669196565741629/816750213938544650/v
 
 <div>
     <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+ <img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
     <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
     <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
     <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -18,7 +19,6 @@ https://media.discordapp.net/attachments/816669196565741629/816750213938544650/v
     <img align="left" alt="Heroku" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
     <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
     <img align="left" alt="Electron" width="26px" src="https://styles.redditmedia.com/t5_3fh1h/styles/communityIcon_wb4keznfn2t41.png?width=256&s=31ee7abe34b29fc6a9831ba3d8445ad44f97b45e" />
-    <img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
 </div>
 
 <br>
