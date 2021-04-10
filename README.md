@@ -13,6 +13,7 @@ https://media.discordapp.net/attachments/816669196565741629/816750213938544650/v
     <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
     <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
     <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+ <img align="left" alt="C++" width="26px" src="https://media.discordapp.net/attachments/747913618284347527/830254543119974460/image0.png" />
     <img align="left" alt="SQL" width="24px" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" />
     <img align="left" alt="Heroku" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
     <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
