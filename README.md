@@ -32,7 +32,7 @@ https://media.discordapp.net/attachments/816669196565741629/816750213938544650/v
 > <img src="https://img.shields.io/badge/GitHub-Existential--nonce%20(go%20figure)-000000" alt="github">
 <br>
 
-
+<!--
 ## **PC specs**
 
 > <img src="https://img.shields.io/badge/NVIDIA-GTX_1080ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
@@ -43,7 +43,7 @@ https://media.discordapp.net/attachments/816669196565741629/816750213938544650/v
 > <br>
 > <img src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <br>
-
+-->
 ## **GitHub stats**
 
 <img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=Existential-nonce&show_icons=true&theme=tokyonight&hide_border=true" />
