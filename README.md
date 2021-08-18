@@ -1,4 +1,4 @@
-<h1> Hello there, I'm nonce! <img width="26px" src="https://media.discordapp.net/attachments/816669196565741629/816753568073383997/6542_DuckDance.gif"></h1>
+<h1> Hello there, I'm nonce!</h1>
 <p> I'm just some random guy with too much free time who enjoys coding.</p> 
 <!-- 
 Alternative gif(s):
