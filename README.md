@@ -1,3 +1,4 @@
+
 <h1> Hello there, I'm nonce!</h1>
 <p> I'm just some random 17 year old with too much free time who enjoys coding.</p> 
 <!-- 
@@ -23,6 +24,9 @@ https://media.discordapp.net/attachments/816669196565741629/816750213938544650/v
 
 <br>
 <br>
+
+## **Stats**
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Existential-nonce&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
 ## **Connections**
 
