@@ -28,13 +28,6 @@ https://media.discordapp.net/attachments/816669196565741629/816750213938544650/v
 ## **Stats**
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Existential-nonce&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
-## **Connections**
-
-> <img src="https://img.shields.io/badge/Discord-nonce%237570-7279DA" alt="discord"><br>
-> <img src="https://img.shields.io/badge/Steam-Lieutenant--nonce-000000" alt="steam"><br>
-> <img src="https://img.shields.io/badge/GitHub-Existential--nonce%20(go%20figure)-000000" alt="github">
-<br>
-
 <!--
 ## **PC specs**
 
