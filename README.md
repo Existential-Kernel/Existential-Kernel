@@ -29,7 +29,7 @@ https://media.discordapp.net/attachments/816669196565741629/816750213938544650/v
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Existential-nonce&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
 
-[![Existential-nonce's GitHub stats](https://github-readme-stats.vercel.app/api?username=Existential-nonce&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Existential-nonce's GitHub stats](https://github-readme-stats.vercel.app/api?username=Existential-nonce&theme=github_dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
