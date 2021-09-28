@@ -30,7 +30,7 @@ https://media.discordapp.net/attachments/816669196565741629/816750213938544650/v
 
 <img align="center" alt="AutoIt" width="35px" src="https://media.discordapp.net/attachments/816669196565741629/891389559382896650/removal.ai_tmp-614f6929dba70.png" />
  
-<img align="center" alt="shell" width="35px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/24x24.png" />
+<img align="center" alt="shell" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" />
  
 <img align="center" alt="powershell" width="35px" src="https://xenappblog.com/wp-content/uploads/PowerShell.png" />
  
