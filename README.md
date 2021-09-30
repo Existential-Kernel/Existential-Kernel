@@ -22,7 +22,7 @@ https://media.discordapp.net/attachments/816669196565741629/816750213938544650/v
  
 <img align="center" alt="Electron" width="35px" src="https://styles.redditmedia.com/t5_3fh1h/styles/communityIcon_wb4keznfn2t41.png?width=256&s=31ee7abe34b29fc6a9831ba3d8445ad44f97b45e" />
  
-<img align="center" alt="C" width="35px" src="https://cdn.discordapp.com/attachments/816669196565741629/893157538818842655/image0.png" />
+<img align="center" alt="C" width="40px" src="https://cdn.discordapp.com/attachments/816669196565741629/893157538818842655/image0.png" />
  
 <img align="center" alt="C++" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
  
