@@ -26,7 +26,7 @@ https://media.discordapp.net/attachments/816669196565741629/816750213938544650/v
  
 <img align="center" alt="C++" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
  
-<img align="center" alt="CUDA" width="35px" src="https://media.discordapp.net/attachments/816669196565741629/891388782857830500/removal.ai_tmp-614f6753bfeca.png" />
+<img align="center" alt="CUDA" width="45px" src="https://media.discordapp.net/attachments/816669196565741629/891388782857830500/removal.ai_tmp-614f6753bfeca.png" />
 
 <img align="center" alt="AutoIt" width="35px" src="https://media.discordapp.net/attachments/816669196565741629/891389559382896650/removal.ai_tmp-614f6929dba70.png" />
  
