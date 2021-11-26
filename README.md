@@ -16,7 +16,9 @@ https://media.discordapp.net/attachments/816669196565741629/816750213938544650/v
  
 <!-- <img align="center" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
  
-<img align="center" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="center" alt="JavaScript" width="35px" src="https://media.discordapp.net/attachments/816669196565741629/913910992478556231/javascript-2752148-2284965.png" />
+ 
+ <img align="center" alt="TypeScript" width="35px" src="https://media.discordapp.net/attachments/816669196565741629/913911000019894283/Typescript_logo_2020.svg.png" />
  
 <img align="center" alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  
