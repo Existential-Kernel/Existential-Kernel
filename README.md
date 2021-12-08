@@ -48,6 +48,7 @@ https://media.discordapp.net/attachments/816669196565741629/816750213938544650/v
 <br>
 <br>
 
+
 ## **Stats**
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Existential-nonce&theme=dark&fire=4B8DDA&ring=4B8DDA&background=0D1117&currStreakLabel=77AADA&hide_border=true)](https://git.io/streak-stats)
@@ -56,6 +57,10 @@ https://media.discordapp.net/attachments/816669196565741629/816750213938544650/v
 
 [![Existential-nonce's github activity graph](https://activity-graph.herokuapp.com/graph?username=Existential-nonce&bg_color=0D1117&hide_border=true&color=4B8DDA&line=4B8DDA&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br>
+<br>
+ 
+<img align="center" src="https://discord.c99.nl/widget/theme-3/699310549573435423.png" />
 </div>
 
 <!--
