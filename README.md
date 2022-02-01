@@ -26,6 +26,7 @@
 <img alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 
 <br>
+<br>
 
 [![Existential-nonce's github activity graph](https://activity-graph.herokuapp.com/graph?username=Existential-nonce&bg_color=0D1117&hide_border=true&color=4B8DDA&line=4B8DDA&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -34,5 +35,7 @@
 ## **Metrics**
 
 ![Metrics](https://github.com/Existential-nonce/Existential-nonce/blob/main/github-metrics.svg)
+
+<img src="assets/pixel_robot.gif">
 
 </div>
