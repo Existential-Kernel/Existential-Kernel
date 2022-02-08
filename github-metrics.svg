@@ -2408,7 +2408,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>photonstorm/phaser</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.</div>
@@ -2461,7 +2461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SlizBinksman/Batch_Obfuscator</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Batch obfuscator based on the obfuscation method used by the trick bot launcher as described in this article: https://blog.huntresslabs.com/tried-and-true-hacker-technique-dos-obfuscation-400b57cd7dd</div>
@@ -3356,7 +3356,7 @@ Configure Renovate</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Feb 2022, 16:20:39 (timezone Europe/London) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 8 Feb 2022, 17:16:48 (timezone Europe/London) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
