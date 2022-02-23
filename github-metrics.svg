@@ -2407,7 +2407,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vxunderground/VX-API</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of various WINAPI tricks / features used or abused by Malware</div>
@@ -2507,7 +2507,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>brane-app/frontend</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The iMonke app in react-native</div>
@@ -3360,7 +3360,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Feb 2022, 14:13:34 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 23 Feb 2022, 15:15:48 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
