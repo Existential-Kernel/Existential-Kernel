@@ -2408,7 +2408,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>corna/me_cleaner</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tool for partial deblobbing of Intel ME/TXE firmware images</div>
@@ -3399,7 +3399,7 @@ But out of curiosity, if I remove the inline keywords, const keywords and the wh
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 May 2022, 21:17:20 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 17 May 2022, 22:12:38 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
