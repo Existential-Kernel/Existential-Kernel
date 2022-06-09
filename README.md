@@ -1,6 +1,6 @@
 <div align=center>
  
-<h1>Hello there, I'm Kernel! <img width="40px" src="https://cdn.discordapp.com/emojis/607305059482468400.gif?size=96"></h1>
+<h1>Hello there, I'm Kernel! <img width="40px" src="https://cdn.discordapp.com/emojis/607305059482468400.gif?size=30"></h1>
 <img src="assets/pixel_computer_transparent.gif">
 
 <p>I'm a half japanese, half french 17 year old with too much free time who enjoys coding.</p> 
