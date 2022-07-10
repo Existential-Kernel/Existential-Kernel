@@ -2580,7 +2580,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>saharmor/dalle-playground</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Jun 10 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/</div>
@@ -3423,7 +3423,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jul 2022, 11:16:10 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 10 Jul 2022, 12:12:52 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
