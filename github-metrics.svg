@@ -3085,7 +3085,7 @@ But anyway, thanks for spotting the mistake @lorrding</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 345k out of 94m users</span>
+                                    <span class="gh">ranked 346k out of 94m users</span>
                                 </div>
                                 <div class="text">Followed by 26 users</div>
                             </div>
@@ -3397,7 +3397,7 @@ But anyway, thanks for spotting the mistake @lorrding</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jul 2022, 21:17:08 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 27 Jul 2022, 22:14:09 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
