@@ -2407,7 +2407,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xoreaxeaxeax/rosenbridge</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hardware backdoors in some x86 CPUs</div>
@@ -2460,7 +2460,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Battelle/sinkhole</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Architectural privilege escalation on x86</div>
@@ -2513,7 +2513,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Battelle/sandsifter</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The x86 processor fuzzer</div>
@@ -3420,7 +3420,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Aug 2022, 17:24:33 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 17 Aug 2022, 18:23:24 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
