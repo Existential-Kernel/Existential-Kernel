@@ -28,10 +28,6 @@
 <br>
 <br>
 
-[![Existential-Kernel's github activity graph](https://activity-graph.herokuapp.com/graph?username=Existential-Kernel&bg_color=0D1117&hide_border=true&color=4B8DDA&line=4B8DDA&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img src="https://discord.c99.nl/widget/theme-3/699310549573435423.png" />
-
 ## **Metrics**
 
 ![Metrics](https://github.com/Existential-Kernel/Existential-Kernel/blob/main/github-metrics.svg)
