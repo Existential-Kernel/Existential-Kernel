@@ -48,7 +48,7 @@ GitHub will autolink `img`, but won't produce a link when `href="#"`.
 <div><a href="#"><img src="assets/bumper.png"></a></div>
 
 **Stuff about me**
-- I do system programming and library developement in C++
+- I do system programming and library development in C++
 - I regret not learning C first 😕
 - Interested in LLVM, VM design, malware, and CPU vulnerabilities
 - Demotivated and exhausted af
