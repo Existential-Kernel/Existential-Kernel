@@ -2,7 +2,7 @@
  
 <h1>Hello there, I'm Kernel!</h1>
 
-<p>I'm a half Japanese, half French 19 year old currently studying Geopolitics.</p> 
+<p>I'm a half Japanese, half French 19 year old currently studying Geography/Geopolitics.</p> 
 </div>
 
 
