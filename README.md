@@ -2,7 +2,7 @@
  
 <h1>Hello there, I'm Kernel!</h1>
 
-<p>I'm a French Japanese 20 year old currently studying Geography/Geopolitics.</p> 
+<p>I'm a French Japanese systems programmer currently studying Geography/Geopolitics.</p> 
 </div>
 
 
@@ -20,10 +20,10 @@ GitHub will autolink `img`, but won't produce a link when `href="#"`.
 - Interested in LLVM, VM design, malware, hardware hacking, compiler design, CPU architecture, and CPU vulnerabilities
 - Demotivated and exhausted as hell
 - I also do pentesting
-- I make discord bots in TypeScript
+- I occasionally use TypeScript
 - My main project is [VMAware](https://github.com/kernelwernel/VMAware)
-- Currently working on a hobby ARM emulator
-<!--- I'm currently learning Dutch 🇳🇱 and German 🇩🇪-->
+<!-- - Currently working on a hobby ARM emulator-->
+<!-- - I'm currently learning Dutch 🇳🇱 and German 🇩🇪-->
 
 
 
