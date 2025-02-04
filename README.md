@@ -22,6 +22,7 @@ GitHub will autolink `img`, but won't produce a link when `href="#"`.
 - I also do pentesting
 - I occasionally use TypeScript
 - My main project is [VMAware](https://github.com/kernelwernel/VMAware)
+- I FUCKING LOVE KFC
 - Currently working on an ARM emulation framework 
 <!-- - I'm currently learning Dutch 🇳🇱 and German 🇩🇪-->
 
